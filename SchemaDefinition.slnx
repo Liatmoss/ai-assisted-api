@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SchemaDefinition/SchemaDefinition.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SchemaDefinition.Tests/SchemaDefinition.Tests.csproj" />
+  </Folder>
+</Solution>
